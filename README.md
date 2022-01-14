@@ -1,5 +1,9 @@
 # NLP Biden speech
 President Joe Biden Inauguration speech. Sentiments analyzed with NLP
+
+![Biden Speech Photo](biden_inauguration.jpg)
+
+
 Every quote has been analyzed by two definitions: 
 - Polarity (going from +1 to -1)
 - Subjectivity (from 0 to 1).
